@@ -1,0 +1,43 @@
+{
+    "rss": {
+        "channel": {
+            "title": "NYT > Technology",
+            "link": "https://www.nytimes.com/section/technology",
+            "language": "en-us",
+            "copyright": "Copyright 2022 The New York Times Company",
+            "lastBuildDate": "Wed, 23 Mar 2022 05:56:19 +0000",
+            "pubDate": "Wed, 23 Mar 2022 04:33:20 +0000",
+            "image": {
+                "title": "NYT > Technology",
+                "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+                "link": "https://www.nytimes.com/section/technology"
+            },
+            "item": [
+                {
+                    "title": "Theranos Trial Starts for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner",
+                    "link": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+                    "description": "Prosecutors say Ramesh Balwani worked hand in hand with Elizabeth Holmes, the Theranos chief executive, who was convicted of four counts of fraud",
+                    "pubDate": "Tue, 22 Mar 2022 21:46:05 +0000"
+                },
+                {
+                    "title": "Balwani, Elizabeth Holmes’s Ex-Partner",
+                    "link": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+                    "description": "Prosecutors say Ramesh Balwani worked hand in hand with Elizabeth Holmes, the Theranos chief executive, who was convicted of four counts of fraud",
+                    "pubDate": "Tue, 22 Mar 2022 21:46:05 +0000"
+                },
+                {
+                    "title": "Theranos Trial Starts fo Holmes’s Ex-Partner",
+                    "link": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+                    "description": "Prosecutors say Ramesh Balwani worked hand in hand with Elizabeth Holmes, the Theranos chief executive, who was convicted of four counts of fraud",
+                    "pubDate": "Tue, 22 Mar 2022 21:46:05 +0000"
+                },
+                {
+                    "title": "for Ramesh Balwani, Elizabeth Holmes’s Ex-Partner",
+                    "link": "https://www.nytimes.com/2022/03/22/technology/theranos-trial-balwani.html",
+                    "description": "Prosecutors say Ramesh Balwani worked hand in hand with Elizabeth Holmes, the Theranos chief executive, who was convicted of four counts of fraud",
+                    "pubDate": "Tue, 22 Mar 2022 21:46:05 +0000"
+                }
+            ]
+        }
+    }
+}
